@@ -6,6 +6,6 @@ stack_name = "sam-basic-deploy"
 s3_bucket = "aws-sam-cli-managed-default-samclisourcebucket-1subpv8jnw5xn"
 s3_prefix = "sam-basic-deploy"
 region = "us-east-1"
-confirm_changeset = true
+confirm_changeset = false
 capabilities = "CAPABILITY_IAM"
 image_repositories = []
