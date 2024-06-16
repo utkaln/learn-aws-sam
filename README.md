@@ -14,3 +14,6 @@
 
 ## Troubleshooting Steps
 - **List stacks available** : `aws cloudformation list-stacks --stack-status-filter CREATE_COMPLETE`
+
+## More Details
+- [[sam-details.md]]
